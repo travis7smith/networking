@@ -4,7 +4,7 @@ This is my tutorial for a client-server network. Client-server is when a compute
 
 The goal for this project was to start a server on the host computer and then clients can connect. Opon entering the chat you are prompted to enter a nickname. Once there is more than one client on the server then you can just type what you want and hit 'Enter'. Hopefully that is all the program will need.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YkoVx_4YuRc)
 
 # Network Communication
 
